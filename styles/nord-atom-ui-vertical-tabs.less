@@ -4,5 +4,28 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
+atom-pane-container {
+  atom-pane {
+    flex-direction: row;
+  }
+}
+
+ul.tab-bar {
+  height: 100% !important;
+  width: 20% !important;
+  display: flex !important;
+  table-layout: auto !important;
+  flex-direction: column;
+
+  li.tab {
+    height: 35px !important;
+    line-height: 35px !important;
+    flex: initial !important;
+    padding-right: 5px !important;
+    text-align: left !important;
+    max-width: none !important;
+  }
+}
+
 .nord-atom-ui-vertical-tabs {
 }
