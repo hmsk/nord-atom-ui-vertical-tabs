@@ -1,0 +1,18 @@
+{
+  "name": "nord-atom-ui-vertical-tabs",
+  "main": "./lib/nord-atom-ui-vertical-tabs",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "nord-atom-ui-vertical-tabs:toggle"
+  },
+  "repository": "https://github.com/atom/nord-atom-ui-vertical-tabs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
