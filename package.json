@@ -1,19 +1,17 @@
 {
   "name": "nord-atom-ui-vertical-tabs",
   "main": "./lib/nord-atom-ui-vertical-tabs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Change tabs direction of nord-atom-ui",
   "keywords": [
     "nord-atom-ui",
     "tabs"
   ],
-  "activationCommands": {
-  },
+  "activationCommands": {},
   "repository": "https://github.com/hmsk/nord-atom-ui-vertical-tabs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
