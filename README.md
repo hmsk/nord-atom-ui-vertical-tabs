@@ -1,5 +1,10 @@
 # nord-atom-ui-vertical-tabs package
 
-A short description of your package.
+Make tabs direction be vertical on [nord-atom-ui theme](https://atom.io/themes/nord-atom-ui) beautifully.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![image](https://cloud.githubusercontent.com/assets/85887/23693666/7a8df428-038a-11e7-834e-faef02b82234.png)
+
+### Respect for:
+
+- [nord-atom-ui](https://atom.io/themes/nord-atom-ui)
+- [vertical-tabs](https://atom.io/packages/vertical-tabs)
