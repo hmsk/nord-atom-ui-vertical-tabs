@@ -1,7 +1,7 @@
 {
   "name": "nord-atom-ui-vertical-tabs",
   "main": "./lib/nord-atom-ui-vertical-tabs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Change tabs direction of nord-atom-ui",
   "keywords": [
     "nord-atom-ui",
